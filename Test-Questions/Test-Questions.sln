@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test-Questions", "Test-Ques
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "high_precision_int_add", "high_precision_int_add\high_precision_int_add.vcxproj", "{AFA87BEC-7757-4281-93E8-A4E4D8D5A920}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "put_aples_to_plates", "put_aples_to_plates\put_aples_to_plates.vcxproj", "{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{AFA87BEC-7757-4281-93E8-A4E4D8D5A920}.Release|x64.Build.0 = Release|x64
 		{AFA87BEC-7757-4281-93E8-A4E4D8D5A920}.Release|x86.ActiveCfg = Release|Win32
 		{AFA87BEC-7757-4281-93E8-A4E4D8D5A920}.Release|x86.Build.0 = Release|Win32
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Debug|x64.ActiveCfg = Debug|x64
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Debug|x64.Build.0 = Debug|x64
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Debug|x86.Build.0 = Debug|Win32
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Release|x64.ActiveCfg = Release|x64
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Release|x64.Build.0 = Release|x64
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Release|x86.ActiveCfg = Release|Win32
+		{1A3B36B9-8C38-4F49-8632-CD11B4EFB8A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
