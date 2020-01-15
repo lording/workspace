@@ -1,5 +1,6 @@
 /*
 题目描述
+https://www.nowcoder.com/questionTerminal/bfd8234bb5e84be0b493656e390bdebf?f=discussion
 把M个同样的苹果放在N个同样的盘子里，允许有的盘子空着不放，问共有多少种不同的分法？
 输入
 每个用例包含二个整数M和N。0<=m<=10，1<=n<=10。
